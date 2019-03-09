@@ -1,4 +1,9 @@
 # nameactivity
 Camden Kirkland
+Jeff Mackey
 Jonathan Randolph
 Lei Kang
+Logan Fitzpatrick
+Amy Claman
+Heather Trinh
+Amy Reynolds
