@@ -2,18 +2,31 @@
 Camden Kirkland
 Jeff Mackey
 Jonathan Randolph
+<<<<<<< HEAD
+Angel Alejandro
+=======
+Lei Kang
 Logan Fitzpatrick
 Amy Claman
 Heather Trinh
 Benjamin Nelson
 Amy Reynolds
-<<<<<<< HEAD
 Edward Moncur
-=======
 Benjamin Nelson
->>>>>>> 75f3f10bce54e771bc1d21e243d0365dfc2aaa7d
 Ehsan Khan
 
+<<<<<<< HEAD
 
+Hocine Makhlouf
 
-hocine Makhlouf 
+======
+Li Gao
+
+Frederik De Bruyker
+
+Ruth Hollyer
+Joy Etuks
+>>>>>>> f9c96585d46fa2e90cfc19581506b9c343e3b59c
+
+wilson
+>>>>>>> 4bfda2697f8f2b5a1c6a81a89144213c5b8dfc93
